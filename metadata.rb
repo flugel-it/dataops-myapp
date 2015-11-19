@@ -7,3 +7,4 @@ long_description 'Installs/Configures myapp'
 version          '0.1.0'
 
 depends "apache2"
+depends "fqdn"
